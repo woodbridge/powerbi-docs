@@ -97,7 +97,7 @@ When working with reports and creating queries, use the following:
 * Do *not* use *numberOfMonth* together with *startBillingDataWindow* or *endBillingDataWindow*
 
 ## Migrating from the Azure Enterprise Connector
-Some customers created visuals using the *Azure Enterprise Connector (Beta)*, which will eventually be discontinued, and is being replaced by the **Azure Consumption Insights** connector. The **Azure Consumption Insights** connector has features and enhancements that include the following:
+Some customers created visuals using the *Azure Enterprise Connector (Beta)*, which has been deprecated. The **Azure Consumption Insights** connector has features and enhancements that include the following:
 
 * Additional data sources available for *Balance Summary* and *Marketplace Purchases*
 * New and advanced parameters, such as *startBillingDataWindow* and *endBillingDataWindow*
